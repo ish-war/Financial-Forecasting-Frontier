@@ -5,11 +5,11 @@ In the modern banking sector, efficiently processing and analyzing vast amounts 
 
 ## Project Goal
 The primary objective of this project is to demonstrate how distributed machine learning can enhance banking data analysis. Using Hadoop, Hive, Apache Spark, and machine learning models, this project aims to:
-✅ Efficiently store and manage large banking datasets
-✅ Perform Exploratory Data Analysis (EDA) using Apache Spark
-✅ Develop predictive models for customer behavior and risk assessment
-✅ Implement real-time transaction analysis using Spark Streaming
-✅ Utilize data parallelism to enhance performance
+* ✅ Efficiently store and manage large banking datasets
+* ✅ Perform Exploratory Data Analysis (EDA) using Apache Spark
+* ✅ Develop predictive models for customer behavior and risk assessment
+* ✅ Implement real-time transaction analysis using Spark Streaming
+* ✅ Utilize data parallelism to enhance performance
 
 ## Tech Stack
 * Programming Language: Python 🐍
@@ -19,23 +19,25 @@ The primary objective of this project is to demonstrate how distributed machine 
 * Visualization: Matplotlib, Seaborn 📈
 
 ##  Project Workflow
-1️⃣ Data Storage & Querying: Store banking data in Hadoop HDFS and use Hive for SQL-based queries.
-2️⃣ Exploratory Data Analysis (EDA): Perform data cleaning, visualization, and trend analysis with Apache Spark.
-3️⃣ Predictive Modeling: Train classification models using Spark ML to predict loan default probabilities.
-4️⃣ Real-Time Analytics: Use Spark Streaming to process real-time banking transactions.
-5️⃣ Performance Optimization: Implement data parallelism for scalable processing.
+* Data Storage & Querying: Store banking data in Hadoop HDFS and use Hive for SQL-based queries.
+* Exploratory Data Analysis (EDA): Perform data cleaning, visualization, and trend analysis with Apache Spark.
+* Predictive Modeling: Train classification models using Spark ML to predict loan default probabilities.
+* Real-Time Analytics: Use Spark Streaming to process real-time banking transactions.
+* Performance Optimization: Implement data parallelism for scalable processing.
 
 ##  Installation & Setup
 Step 1: Install Hadoop and Hive
+
 Step 2: Install Apache Spark
+
 Step 3: Install Python Dependencies
 
 ##  How to Run the Project
-* 1️⃣ Load Data into Hadoop HDFS
-* 2️⃣ Query Data with Hive
-* 3️⃣ Perform EDA with Apache Spark
-* 4️⃣ Train Classification Models
-* 5️⃣ Real-Time Analysis with Spark Streaming
+* Load Data into Hadoop HDFS
+* Query Data with Hive
+* Perform EDA with Apache Spark
+* Train Classification Models
+* Real-Time Analysis with Spark Streaming
 
 ##  Results & Insights
 * Identified key factors influencing customer subscription to term deposits.
@@ -45,7 +47,9 @@ Step 3: Install Python Dependencies
 
  ## Future Enhancements
 🔹 Integrate Kafka for real-time data ingestion.
+
 🔹 Implement Deep Learning models for better prediction accuracy.
+
 🔹 Extend the project to fraud detection and risk modeling.
 
 ## Contributing
