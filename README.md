@@ -5,11 +5,16 @@ In the modern banking sector, efficiently processing and analyzing vast amounts 
 
 ## Project Goal
 The primary objective of this project is to demonstrate how distributed machine learning can enhance banking data analysis. Using Hadoop, Hive, Apache Spark, and machine learning models, this project aims to:
-* ✅ Efficiently store and manage large banking datasets
-* ✅ Perform Exploratory Data Analysis (EDA) using Apache Spark
-* ✅ Develop predictive models for customer behavior and risk assessment
-* ✅ Implement real-time transaction analysis using Spark Streaming
-* ✅ Utilize data parallelism to enhance performance
+
+✅ Efficiently store and manage large banking datasets
+
+✅ Perform Exploratory Data Analysis (EDA) using Apache Spark
+
+✅ Develop predictive models for customer behavior and risk assessment
+
+✅ Implement real-time transaction analysis using Spark Streaming
+
+✅ Utilize data parallelism to enhance performance
 
 ## Tech Stack
 * Programming Language: Python 🐍
